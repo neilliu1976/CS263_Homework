@@ -1,0 +1,6 @@
+D:\train\C#\CS263_Homework\Homework1\Problem1\bin\Debug\Problem1.exe.config
+D:\train\C#\CS263_Homework\Homework1\Problem1\bin\Debug\Problem1.exe
+D:\train\C#\CS263_Homework\Homework1\Problem1\bin\Debug\Problem1.pdb
+D:\train\C#\CS263_Homework\Homework1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+D:\train\C#\CS263_Homework\Homework1\Problem1\obj\Debug\Problem1.exe
+D:\train\C#\CS263_Homework\Homework1\Problem1\obj\Debug\Problem1.pdb
