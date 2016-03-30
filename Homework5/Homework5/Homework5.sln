@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTicketSystem", "MovieTicketSystem\MovieTicketSystem.csproj", "{5C3BFCA1-2722-4E1D-92C5-6E3B8AE5989C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketLibrary", "TicketLibrary\TicketLibrary.csproj", "{C53B1381-20F4-497C-A863-64566CFAC46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3BFCA1-2722-4E1D-92C5-6E3B8AE5989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3BFCA1-2722-4E1D-92C5-6E3B8AE5989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3BFCA1-2722-4E1D-92C5-6E3B8AE5989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3BFCA1-2722-4E1D-92C5-6E3B8AE5989C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53B1381-20F4-497C-A863-64566CFAC46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53B1381-20F4-497C-A863-64566CFAC46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53B1381-20F4-497C-A863-64566CFAC46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53B1381-20F4-497C-A863-64566CFAC46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
