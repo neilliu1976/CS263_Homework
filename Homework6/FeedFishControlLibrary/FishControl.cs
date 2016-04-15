@@ -115,6 +115,7 @@ namespace FeedFishControlLibrary
 					this.AteMode = false;
 					this.MoveMode = true;
 				}
+				this.SetText(string.Format("飽餐一頓...{0}", 5 - (Environment.TickCount - this.AteTick) / 1000));
 			}
 			else if (null != this.foodControl)
 			{
