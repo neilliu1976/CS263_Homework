@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedFish", "FeedFish\FeedFish.csproj", "{04C2F59E-4D3E-43B8-BDAA-74CD46BBFBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedFishControlLibrary", "FeedFishControlLibrary\FeedFishControlLibrary.csproj", "{187939C4-C499-4C91-9190-D0256CEC9669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C2F59E-4D3E-43B8-BDAA-74CD46BBFBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C2F59E-4D3E-43B8-BDAA-74CD46BBFBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C2F59E-4D3E-43B8-BDAA-74CD46BBFBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C2F59E-4D3E-43B8-BDAA-74CD46BBFBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187939C4-C499-4C91-9190-D0256CEC9669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187939C4-C499-4C91-9190-D0256CEC9669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187939C4-C499-4C91-9190-D0256CEC9669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187939C4-C499-4C91-9190-D0256CEC9669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
